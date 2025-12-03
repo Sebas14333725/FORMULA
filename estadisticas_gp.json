@@ -1,7 +1,7 @@
 [{
   "_id": "GP1_MER_1",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2022,
   "piloto_id": "MER_1",
   "escuderia_id": "MER",
   "posicion_inicio": 1,
@@ -15,7 +15,7 @@
 {
   "_id": "GP1_MER_2",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2021,
   "piloto_id": "MER_2",
   "escuderia_id": "MER",
   "posicion_inicio": 17,
@@ -29,7 +29,7 @@
 {
   "_id": "GP1_RBR_1",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2022,
   "piloto_id": "RBR_1",
   "escuderia_id": "RBR",
   "posicion_inicio": 6,
@@ -43,7 +43,7 @@
 {
   "_id": "GP1_RBR_2",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2023,
   "piloto_id": "RBR_2",
   "escuderia_id": "RBR",
   "posicion_inicio": 13,
@@ -57,7 +57,7 @@
 {
   "_id": "GP1_FER_1",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2025,
   "piloto_id": "FER_1",
   "escuderia_id": "FER",
   "posicion_inicio": 3,
@@ -71,7 +71,7 @@
 {
   "_id": "GP1_FER_2",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2020,
   "piloto_id": "FER_2",
   "escuderia_id": "FER",
   "posicion_inicio": 16,
@@ -99,7 +99,7 @@
 {
   "_id": "GP1_MCL_2",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2021,
   "piloto_id": "MCL_2",
   "escuderia_id": "MCL",
   "posicion_inicio": 8,
@@ -113,7 +113,7 @@
 {
   "_id": "GP1_AST_1",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2019,
   "piloto_id": "AST_1",
   "escuderia_id": "AST",
   "posicion_inicio": 7,
@@ -127,7 +127,7 @@
 {
   "_id": "GP1_AST_2",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2015,
   "piloto_id": "AST_2",
   "escuderia_id": "AST",
   "posicion_inicio": 9,
@@ -141,7 +141,7 @@
 {
   "_id": "GP1_ALP_1",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2020,
   "piloto_id": "ALP_1",
   "escuderia_id": "ALP",
   "posicion_inicio": 15,
@@ -155,7 +155,7 @@
 {
   "_id": "GP1_ALP_2",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2023,
   "piloto_id": "ALP_2",
   "escuderia_id": "ALP",
   "posicion_inicio": 4,
@@ -169,7 +169,7 @@
 {
   "_id": "GP1_WIL_1",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2022,
   "piloto_id": "WIL_1",
   "escuderia_id": "WIL",
   "posicion_inicio": 14,
@@ -183,7 +183,7 @@
 {
   "_id": "GP1_WIL_2",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2025,
   "piloto_id": "WIL_2",
   "escuderia_id": "WIL",
   "posicion_inicio": 5,
@@ -197,7 +197,7 @@
 {
   "_id": "GP1_HAA_1",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2022,
   "piloto_id": "HAA_1",
   "escuderia_id": "HAA",
   "posicion_inicio": 11,
@@ -211,7 +211,7 @@
 {
   "_id": "GP1_HAA_2",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2021,
   "piloto_id": "HAA_2",
   "escuderia_id": "HAA",
   "posicion_inicio": 1,
@@ -225,7 +225,7 @@
 {
   "_id": "GP1_SAU_1",
   "grand_prix": "GP1",
-  "anio": 2024,
+  "anio": 2025,
   "piloto_id": "SAU_1",
   "escuderia_id": "SAU",
   "posicion_inicio": 11,
