@@ -1,0 +1,120 @@
+[{
+  "_id": "MER_1",
+  "nombre": "Federico Sanabria",
+  "nacionalidad": "Colombiana",
+  "codigo_escuderia": "MER"
+},
+{
+  "_id": "RBR_1",
+  "nombre": "Alisson Barajas",
+  "nacionalidad": "Italiana",
+  "codigo_escuderia": "RBR"
+},
+{
+  "_id": "RBR_2",
+  "nombre": "Alejandro Diaz",
+  "nacionalidad": "Canadiense",
+  "codigo_escuderia": "RBR"
+},
+{
+  "_id": "MER_2",
+  "nombre": "Valerie Lopez",
+  "nacionalidad": "Frances",
+  "codigo_escuderia": "MER"
+},
+{
+  "_id": "FER_1",
+  "nombre": "Elena Plazas",
+  "nacionalidad": "Australiana",
+  "codigo_escuderia": "FER"
+},
+{
+  "_id": "FER_2",
+  "nombre": "Juanjo Lopez",
+  "nacionalidad": "Colombiana",
+  "codigo_escuderia": "FER"
+},
+{
+  "_id": "MCL_1",
+  "nombre": "Liliana Hernandez",
+  "nacionalidad": "Italiana",
+  "codigo_escuderia": "MCL"
+},
+{
+  "_id": "MCL_2",
+  "nombre": "Julio Mora",
+  "nacionalidad": "Noruego",
+  "codigo_escuderia": "MCL"
+},
+{
+  "_id": "AST_1",
+  "nombre": "Juan Quintero",
+  "nacionalidad": "Egipcio",
+  "codigo_escuderia": "AST"
+},
+{
+  "_id": "AST_2",
+  "nombre": "Luna Sousa",
+  "nacionalidad": "Australiana",
+  "codigo_escuderia": "AST"
+},
+{
+  "_id": "ALP_1",
+  "nombre": "Estrella Diaz",
+  "nacionalidad": "Colombiana",
+  "codigo_escuderia": "ALP"
+},
+{
+  "_id": "ALP_2",
+  "nombre": "Antonio Banderas",
+  "nacionalidad": "Mexicano",
+  "codigo_escuderia": "ALP"
+},
+{
+  "_id": "WIL_1",
+  "nombre": "Mario Casas",
+  "nacionalidad": "Español",
+  "codigo_escuderia": "WIL"
+},
+{
+  "_id": "WIL_2",
+  "nombre": "Nelson Velazques",
+  "nacionalidad": "Italiano",
+  "codigo_escuderia": "WIL"
+},
+{
+  "_id": "HAA_1",
+  "nombre": "Jorge Celedon",
+  "nacionalidad": "Estadounidense",
+  "codigo_escuderia": "HAA"
+},
+{
+  "_id": "HAA_2",
+  "nombre": "Jean Centeno",
+  "nacionalidad": "Dominicano",
+  "codigo_escuderia": "HAA"
+},
+{
+  "_id": "SAU_1",
+  "nombre": "Brian Palacios",
+  "nacionalidad": "Cubano",
+  "codigo_escuderia": "SAU"
+},
+{
+  "_id": "SAU_2",
+  "nombre": "Richard Rios",
+  "nacionalidad": "Colombiano",
+  "codigo_escuderia": "SAU"
+},
+{
+  "_id": "VCA_1",
+  "nombre": "Miguel Henao",
+  "nacionalidad": "Dominicano",
+  "codigo_escuderia": "VCA"
+},
+{
+  "_id": "VCA_2",
+  "nombre": "Maribel Guardia",
+  "nacionalidad": "Mexicano",
+  "codigo_escuderia": "VCA"
+}]

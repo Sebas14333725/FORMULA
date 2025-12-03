@@ -1,0 +1,50 @@
+[{
+  "_id": "MER",
+  "nombre": "McLaren",
+  "pais": "Colombia"
+},
+{
+  "_id": "RBR",
+  "nombre": "Red Bull Racing",
+  "pais": "Austria"
+},
+{
+  "_id": "FER",
+  "nombre": "Ferrari",
+  "pais": "Italia"
+},
+{
+  "_id": "AST",
+  "nombre": "Aston Martin",
+  "pais": "Reino Unido"
+},
+{
+  "_id": "ALP",
+  "nombre": "Alpine",
+  "pais": "Francia"
+},
+{
+  "_id": "WIL",
+  "nombre": "Williams",
+  "pais": "Reino Unido"
+},
+{
+  "_id": "SAU",
+  "nombre": "Sauber",
+  "pais": "Suiza"
+},
+{
+  "_id": "VCA",
+  "nombre": "Visa Cash App RB",
+  "pais": "Italia"
+},
+{
+  "_id": "HAA",
+  "nombre": "Haas F1 Team",
+  "pais": "EE.UU."
+},
+{
+  "_id": "MCL",
+  "nombre": "McLaren",
+  "pais": "Reino Unido"
+}]
